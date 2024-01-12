@@ -176,7 +176,7 @@ https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/93309ccf-47bb
 
 
 
-[High resoulution video](https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/blob/main/videos/side_by_side_comparisonV.mp4)
+[High resoulution video](https://cloud.tsinghua.edu.cn/f/22ddd702f6644f77bc69/)
 
 ### Caputure density visulization
 
