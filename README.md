@@ -160,12 +160,16 @@ The following videos show the training result of our datasets using 3DGS.
 
 
 
+
 ### Side by side comparison 
 
 The following video shows the comparison between training results and Ground truth.
 
 
-https://github.com/Metaverse-AI-Lab-THU/HQ-VR-Scenes/assets/122356862/1ade709a-b29d-4b6e-9176-6830bddbcc8b
+
+https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/93309ccf-47bb-49cf-8702-3a6afed190fc
+
+
 
 [High resoulution video](https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/blob/main/videos/side_by_side_comparisonV.mp4)
 
@@ -175,11 +179,12 @@ In order to give you a more intuitive view of the sampling density when we colle
 
 
 
+https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/215dcb63-6bcf-4908-9f0d-1ac5da3e2e67
 
-https://github.com/Metaverse-AI-Lab-THU/HQ-VR-Scenes/assets/122356862/128ff11d-c7eb-4c2b-b806-a55820697c2b
 
 
-https://github.com/Metaverse-AI-Lab-THU/HQ-VR-Scenes/assets/122356862/90d30560-458a-4444-803c-deb335158aa4
+
+https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/1c8f9ce9-9967-462e-8ebc-ea3392b3dc51
 
 
 
