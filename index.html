@@ -1,0 +1,297 @@
+<!DOCTYPE html lang="en">
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="HIDIVE-6D: High-Density Image Capturing for a 6DoF Immersive Visual Experience">
+  <meta name="keywords" content="VR-3D Guassian, NeRF, IBRnet,  large scenes dataset">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>HIDIVE-6D: High-Density Image Capturing for a 6DoF Immersive Visual Experience</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/vr-glasses.png">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">HIDIVE-6D: High-Density Image Capturing for a 6DoF Immersive Visual Experience</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><a href="">Xiaohang Yu</a><sup>1</sup>,</span>
+            <span class="author-block"><a href="">Zhengxian Yang</a><sup>1</sup>,</span>
+            <span class="author-block"><a href="">Shi Pan</a><sup>1</sup>,</span>
+            <span class="author-block"><a href="">Haoxiang Wang</a><sup>1</sup>,</span>
+            <span class="author-block"><a href="">Hongguang Xing</a><sup>1</sup>,</span>
+            <span class="author-block"><a href="">Yuqi Han</a><sup>1</sup>,</span>
+            <span class="author-block"><a href="">Jun Zhang</a><sup>1</sup>,</span>
+            <span class="author-block"><a href="">Lei Yang</a><sup>1</sup>,</span>
+            <span class="author-block"><a href="">Lu Fang</a><sup>1,2</sup>,</span>
+            <span class="author-block"><a href="https://ytrock.com/">Tao Yu</a><sup>1,2</sup>,</span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>Tsinghua University Beijing, China</span>,
+            <span class="author-block"><sup>2</sup>Metaverse-AI-Lab</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="static/VRNeRF-SIGAsia2023.pdf"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2311.02542"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Video Link. -->
+              <span class="link-block">
+                <a href="https://youtu.be/9Q8_FssFQP4"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-youtube"></i>
+                  </span>
+                  <span>Video</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <!-- <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+              </span> -->
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://github.com/Metaverse-AI-Lab-THU/HQ-VR-Scenes"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Dataset</span>
+                </a>
+              </span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="./static/images/poster.jpeg"> 
+      
+      <h2 class="subtitle has-text-centered">
+        We have utilized a self-designed multi-camera device named "Compound Eye" to capture a dataset of images and videos from multiple scenes, with a particular focus on large-scale outdoor environments. 
+        The quality and viewpoint density of this dataset may represent the current state-of-the-art within the public domain as we validated the effectiveness on popular algorithms and integrated it with VR engine.
+    </div>
+  </div>
+</section>
+
+
+<section class="hero is-light is-small">
+  <div class="hero-body">
+    <div class="container" style="text-align:center">
+      <strong>Please note:</strong> These videos are encoded using HEVC with 10-bit HDR colors and are best viewed on a compatible display with HDR support, e.g. recent Apple devices.
+      <div id="results-carousel" class="carousel results-carousel">
+        <div class="item item-Square2">
+          <video poster="" id="Square2" autoplay controls muted loop playsinline height="100%">
+            <source src="./videos/Square2_Flythrough_1080p.mp4" type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-Architecture">
+          <video poster="" id="Architecture" autoplay controls muted loop playsinline height="100%">
+            <source src="./videos/ArchitectureBuiding_Flythrough_1080p.mp4" type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-RuziNiu Statue">
+          <video poster="" id="RuziNiu Statue" autoplay controls muted loop playsinline height="100%">
+            <source src="./videos/Ruziniu_Flythrough_1080p.mp4" type="video/mp4">
+          </video>
+        </div>
+        <div class="item item-Center Garden">
+          <video poster="" id="Center Garden" autoplay controls muted loop playsinline height="100%">
+            <source src="./videos/CenterGarden_Flythrough_1080p.mp4" type="video/mp4">
+          </video>
+        </div> 
+        <div class="item item-Office1">
+          <video poster="" id="Office1" autoplay controls muted loop playsinline height="100%">
+            <source src="./videos/Fit309_Flythrough_1080p.mp4" type="video/mp4">
+          </video>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+
+          <p>
+            We have developed and built a custom multi-camera capture system, which provides a series of high-quality and sufficiently dense scene images and videos for various scenarios. Our aim is to contribute to the development of popular 3D scene reconstruction algorithms such as IBRnet, NeRF, and 3D Gaussian splatting. 
+            We utilized a total of 40 GoPro 10 cameras, capturing images of 4k resolution. The number of photos captured for each scene is no less than 1000. It is worth noting that our system is capable of efficiently capturing large outdoor scenes. Addressing the current lack of large-scale scene datasets, we made efforts to include elements such as sky, reflections, and dynamic objects that are of interest to researchers in the field of 3D reconstruction during the data capture process. 
+            Finally, we validated the effectiveness of our provided dataset on three popular algorithms and integrated it with the Unity engine, demonstrating the potential of utilizing high-quality captured scenes to enhance the realism of virtual reality (VR) and create feasible interactive spaces.
+          </p>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Capture Progress</h2>
+
+        <video id="supp video" autoplay controls muted loop playsinline height="100%">
+          <source src="./videos/capture.mov" type="video/mp4">
+          <!-- <source src="./videos/VR-NeRF-with-voiceover.mp4" type="video/mp4"> -->
+        </video>
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Training and VR demo</h2>
+
+        <video id="supp video" autoplay controls muted loop playsinline height="100%">
+          <source src="./videos/VR_demo1.mp4" type="video/mp4">
+        </video>
+        <video id="supp video" autoplay controls muted loop playsinline height="100%">
+          <source src="./videos/VR_demo2.mp4" type="video/mp4">
+        </video>
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Side-by-Side comparison</h2>
+
+
+        <video id="supp video" autoplay controls muted loop playsinline height="100%">
+            <source src="./videos/side_by_side_comparisonV.mp4" type="video/mp4">
+            <!-- <source src="./videos/side_by_side_comparisonV.mp4" type="video/mp4"> -->
+        </video>
+      </div>
+    </div>
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Caputure density visualize </h2>
+        <div id="results-carousel" class="carousel results-carousel">
+          <div class="item item-Center garden">
+            <video poster="" id="Center garden" autoplay controls muted loop playsinline height="100%">
+              <source src="./videos/Center garden_density.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="item item-Square1">
+            <video poster="" id="Square1" autoplay controls muted loop playsinline height="100%">
+              <source src="./videos/Square1_density.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="item item-Square2">
+            <video poster="" id="Square2" autoplay controls muted loop playsinline height="100%">
+              <source src="./videos/Square2_density.mp4" type="video/mp4">
+            </video>
+          </div> 
+          <div class="item item-Architecture">
+            <video poster="" id="Architecture" autoplay controls muted loop playsinline height="100%">
+              <source src="./videos/Architecture_density.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="item item-Flagstaff">
+            <video poster="" id="Flagsatff" autoplay controls muted loop playsinline height="100%">
+              <source src="./videos/Flagstaff_density.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="item item-Office1">
+            <video poster="" id="Office1" autoplay controls muted loop playsinline height="100%">
+              <source src="./videos/Office1_density.mp4" type="video/mp4">
+            </video>
+          </div>
+          <div class="item item-Office2">
+            <video poster="" id="Office2" autoplay controls muted loop playsinline height="100%">
+              <source src="./videos/Office2_density.mp4" type="video/mp4">
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+
+
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre>
+      @InProceedings{HIDIVE-6D,
+        author    = {Xiaohang Yu and
+                     Zhengxian Yang and
+                     Shi Pan and
+                     Haoxiang Wang and
+                     Hongguang Xing and
+                     Yuqi Han and
+                     Jun Zhang and
+                     Lei Yang and
+                     Lu Fang and
+                     Tao Yu },
+        title     = {{HIDIVE-6D}: High-Density Image Capturing for a 6DoF Immersive Visual Experience},
+        year      = {2024},
+        url       = {https://metaverse-ai-lab-thu.github.io/HQ-VR-Scenes/},
+      }</pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            We thank the authors of <a href="https://nerfies.github.io/">Nerfies</a> that kindly open sourced the template of this website.
+          </p>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
