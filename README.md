@@ -163,7 +163,7 @@ The following videos show the training result of our datasets using 3DGS.
 https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/a56012be-126a-47d3-92eb-5fd638870610
 
 
-[High resolution video](https://cloud.tsinghua.edu.cn/lib/663a61a1-412f-4fac-8393-9d9da101d7b3/file/Demo_Points2Splats/Demo_Points2Splats_4K.mp4)
+[High resolution video](https://cloud.tsinghua.edu.cn/f/5320a1e2ec9c42c68fba/)
 
 
 ### Side by side comparison 
