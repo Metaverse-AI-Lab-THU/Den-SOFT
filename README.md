@@ -158,7 +158,7 @@ Our scene capture data is organized following this structure:
 
 The following videos show the training result of our datasets using 3DGS.
 
-
+[High resolution video](https://cloud.tsinghua.edu.cn/lib/663a61a1-412f-4fac-8393-9d9da101d7b3/file/Demo_Points2Splats/Demo_Points2Splats_4K.mp4)
 
 
 ### Side by side comparison 
