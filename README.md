@@ -26,8 +26,8 @@
 
 ## Dataset Overview
 
-Scene          |   cams   |   pos   |   img   |    volume   |  4K&nbsp;JPEGs 
-:--------------| ---------| ---:    | ---:    | ------------|--------------------:
+Scene                     |   cams   |   pos   |   img   |    volume   |  4K&nbsp;JPEGs 
+:-------------------------| ---------| ---:    | ---:    | ------------:|--------------------:
 [RuziNiu Statue][apartment_index]  |   [41](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/apartment/images-jpeg-2k/collage.mp4)    |   38   | 1,558 | 20.27m&sup3; |[19&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/apartment/images-2k/index.html)
 [LizhaoJi Building][kitchen_index] |   [41](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/kitchen/images-jpeg-2k/collage.mp4)      |   21   |   861 | 15.40m&sup3; |[9&nbsp;GB ](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/kitchen/images-2k/index.html)
 [Architecture][office1a_index]     |   [40](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office1a/images-jpeg-2k/collage.mp4)     |   32   | 1,295 | 34.22m&sup3; |[13&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office1a/images-2k/index.html)
