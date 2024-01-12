@@ -138,6 +138,7 @@ Our scene capture data is organized following this structure:
 │   ├── Square1-1         # Scene name - first pose
 │   ├── [...]             # More images
 
+
 3.Metashape Reference: camera poses and point cloud
 │
 ├── Architecture          # Scene name
@@ -166,7 +167,7 @@ The following video shows the comparison between training results and Ground tru
 
 https://github.com/Metaverse-AI-Lab-THU/HQ-VR-Scenes/assets/122356862/1ade709a-b29d-4b6e-9176-6830bddbcc8b
 
-[High resoulution video](https://github.com/Metaverse-AI-Lab-THU/HQ-VR-Scenes/blob/main/videos/side_by_side_comparisonV.mp4)
+[High resoulution video](https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/blob/main/videos/side_by_side_comparisonV.mp4)
 
 ### Caputure density visulization
 
