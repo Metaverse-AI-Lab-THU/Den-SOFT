@@ -130,31 +130,33 @@ Our scene capture data is organized following this structure:
 │   ├── 2(1)              # Second camera (first pose)
 │   ├── [...]             # More images
 │   ├── 41(38)            # Last camera (last pose)
-├── Metashape             # Reference
-│   ├── camera.xml        
-│   ├── point_cloud.ply 
+
 
 2.40 cameras: All other scene datas
 │
 ├── images                # Scene images with 4K resolution
-│   ├── Square1-1         # Scene name - First pose
+│   ├── Square1-1         # Scene name - first pose
 │   ├── [...]             # More images
-├── Metashape             # Reference
-│   ├── camera.xml
-│   ├── point_cloud.ply 
+
+3.Metashape Reference: camera poses and point cloud
+│
+├── Architecture          # Scene name
+│   ├── camera.xml        # Camera poses
+│   ├── point_cloud.ply   # Point cloud correspond to the scene
+
 ```
 
 
 ### JPEG images (`images/*.jpg`)
 
-* We provide images at 4K resolution(Width:5568, Height:4176). If you want to use Metashape to get sparse point cloud reconstruction or camera poses, you can use the  `camera.xml`, `point_cloud.ply` as references. Some of the images were removed due to involving irrelevant elements in the scene or blurry images. 
+* We provide images at 4K resolution(Width:5568, Height:4176). If you want to use Metashape to get sparse point cloud reconstruction or camera poses, you can use the  `camera.xml`, `point_cloud.ply` as references. Some of the images were removed due to involving irrelevant elements in the scene or blurry images. It would be greatly appreciated if you have a better method that can use all images to estimate camera pose and reconstruct point clouds.
 
 ## Feasibility verification of our dataset
 
 ### 3D Reconstruction Demo with 3DGS
 
 The following videos show the training result of our datasets using 3DGS.
-* `width`: image width, in pixels (usually 5784)
+
 
 
 ### Side by side comparison 
@@ -198,7 +200,7 @@ If you use any data from this dataset or any code released in this repository, p
                Tao Yu },
   title     = {{HIDIVE-6D}: High-Density Image Capturing for a 6DoF Immersive Visual Experience},
   year      = {2024},
-  url       = {https://metaverse-ai-lab-thu.github.io/HQ-VR-Scenes/},
+  url       = {https://metaverse-ai-lab-thu.github.io/HIDIVE-6D/},
 }
 ```
 
