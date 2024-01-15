@@ -111,7 +111,7 @@ Total                              |                                            
 
 All images in the dataset were taken with our self-designed multi-camera device named "Compound Eye"  (as specified in [the overview table](#dataset-overview)). Capture rig consists of  40-41 GoPro HERO10 cameras mounted on a remote-controlled car.
 
-![Capture rig model](static/images/Capture%20rig.jpg)
+![Capture rig model](static/images/capture%20rig.jpg)
 
 ## Download instructions
 
