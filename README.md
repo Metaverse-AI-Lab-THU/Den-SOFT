@@ -210,7 +210,7 @@ If you use any data from this dataset or any code released in this repository, p
                Lei Yang and
                Lu Fang and
                Tao Yu },
-  title     = {{HIDIVE-6D}: High-Density Image Capturing for a 6DoF Immersive Visual Experience},
+  title     = {{Den-SOFT}: Dense Space-Oriented Light Field Dataset for 6-DOF Immersive Experience},
   year      = {2024},
   url       = {https://metaverse-ai-lab-thu.github.io/Den-SOFT/},
 }
