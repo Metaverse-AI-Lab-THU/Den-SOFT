@@ -17,7 +17,7 @@
 
 
   <p align="center" style="margin: 2em auto;">
-    <a href='https://github.com/Metaverse-AI-Lab-THU/Den-SOFT' style='padding-left: 0.5rem;'><img src='https://img.shields.io/badge/Den--SOFT-Project_page-orange?style=flat&logo=databricks&logoColor=orange/' alt='Project Page'></a>
+    <a href='https://metaverse-ai-lab-thu.github.io/Den-SOFT/' style='padding-left: 0.5rem;'><img src='https://img.shields.io/badge/Den--SOFT-Project_page-orange?style=flat&logo=databricks&logoColor=orange/' alt='Project Page'></a>
     <a href='https://arxiv.org/abs/2311.02542'><img src='https://img.shields.io/badge/arXiv-Paper_PDF-red?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'></a>
     <!--<a href='https://dl.acm.org/doi/10.1145/3592106'><img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='DOI'></a>
     <a href='https://youtu.be/GdvxgsITZOw'><img src='https://img.shields.io/badge/YouTube-Video-red?style=flat&logo=YouTube&logoColor=red' alt='YouTube Video'></a>-->
@@ -196,7 +196,7 @@ https://github.com/Metaverse-AI-Lab-THU/Den-SOFT/assets/122356862/1c8f9ce9-9967-
 
 
 ## Citation
-If you use any data from this dataset or any code released in this repository, please cite the HIDIVE-6D paper.
+If you use any data from this dataset or any code released in this repository, please cite the Den-SOFT paper.
 
 ```bibtex
 @InProceedings{Den-SOFT,
