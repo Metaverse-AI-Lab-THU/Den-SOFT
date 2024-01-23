@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>HIDIVE-6D: High-Density Image Capturing for a 6DoF Immersive Visual Experience </h1>
+  <h1>Den-SOFT: Dense Space-Oriented Light Field Dataset for 6-DOF Immersive Experience </h1>
 
   <p style="font-size:1.2em">
     <a href=""><strong>Xiaohang Yu</strong></a> ·
@@ -28,18 +28,18 @@
 
 Scene                     |           Camera          |            pos            |            img           |           volume          |       4K&nbsp;JPEGs 
 :-------------------------| :------------------------:| :------------------------:| ------------------------:| -------------------------:|---------------------------:
-[RuziNiu Statue][apartment_index]  |   41             |            38             |          1,558           |          20.27 m&sup3;    |[19&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/apartment/images-2k/index.html)
-[LizhaoJi Building][kitchen_index] |   41             |            21             |            861           |          15.40 m&sup3;    |[9&nbsp;GB ](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/kitchen/images-2k/index.html)
-[Architecture][office1a_index]     |   40             |            32             |          1,295           |          34.22 m&sup3;    |[13&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office1a/images-2k/index.html)
-[Center Garden][office1b_index]    |   40             |            53             |          2,109           |          140.74 m&sup3;   |[23&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office1b/images-2k/index.html)
-[Square1][office2_index]           |   40             |            40             |          1,588           |          21.69 m&sup3;    |[15&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office2/images-2k/index.html)
-[Square2][office_view1_index]      |   40             |            47             |          1,876           |          33.84 m&sup3;    |[18&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office_view1/images-2k/index.html) 
-[Flagstaff][office_view2_index]    |   40             |            38             |          1,518           |          22.98 m&sup3;    |[15&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office_view2/images-2k/index.html) 
-[Office1][riverview_index]         |   40             |            43             |          1,710           |          53.55 m&sup3;    |[15&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/riverview/images-2k/index.html)
-[Office2][seating_area_index]      |   40             |            89             |          3,550           |          296.51 m&sup3;   |[30&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/seating_area/images-2k/index.html)
+[RuziNiu Statue][apartment_index]  |   41             |            38             |          1,558           |          11.52 m&sup3;    |[19&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/apartment/images-2k/index.html)
+[LizhaoJi Building][kitchen_index] |   41             |            21             |            861           |           6.83 m&sup3;    |[9&nbsp;GB ](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/kitchen/images-2k/index.html)
+[Architecture][office1a_index]     |   40             |            32             |          1,295           |          12.57 m&sup3;    |[13&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office1a/images-2k/index.html)
+[Center Garden][office1b_index]    |   40             |            53             |          2,109           |          23.95 m&sup3;    |[23&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office1b/images-2k/index.html)
+[Square1][office2_index]           |   40             |            40             |          1,588           |           8.37 m&sup3;    |[15&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office2/images-2k/index.html)
+[Square2][office_view1_index]      |   40             |            47             |          1,876           |          11.59 m&sup3;    |[18&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office_view1/images-2k/index.html) 
+[Flagstaff][office_view2_index]    |   40             |            38             |          1,518           |           8.04 m&sup3;    |[15&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/office_view2/images-2k/index.html) 
+[Office1][riverview_index]         |   40             |            43             |          1,710           |          13.14 m&sup3;    |[15&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/riverview/images-2k/index.html)
+[Office2][seating_area_index]      |   40             |            89             |          3,550           |           39.72 m&sup3;   |[30&nbsp;GB](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/seating_area/images-2k/index.html)
 Total                              |                                                                                                                                 |     |       |    |157&nbsp;GB |  
 
-\* `volume`column indicates the space size with at least one camera within a range of 1 m&sup3;  
+\* `volume`column indicates the space size with at least 10 camera within a range of 1 m&sup3;  
 \* Above are all valid data which we have undistorted and tested on Metashape. If you want to acquire raw data, please contact us.
 
 [apartment_index]: https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/apartment/index.html
