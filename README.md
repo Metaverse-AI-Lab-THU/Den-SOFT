@@ -17,7 +17,7 @@
 
 
   <p align="center" style="margin: 2em auto;">
-    <a href='https://metaverse-ai-lab-thu.github.io/HIDIVE-6D/' style='padding-left: 0.5rem;'><img src='https://img.shields.io/badge/HIDIVE--6D-Project_page-orange?style=flat&logo=databricks&logoColor=orange/' alt='Project Page'></a>
+    <a href='https://github.com/Metaverse-AI-Lab-THU/Den-SOFT' style='padding-left: 0.5rem;'><img src='https://img.shields.io/badge/Den--SOFT-Project_page-orange?style=flat&logo=databricks&logoColor=orange/' alt='Project Page'></a>
     <a href='https://arxiv.org/abs/2311.02542'><img src='https://img.shields.io/badge/arXiv-Paper_PDF-red?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'></a>
     <!--<a href='https://dl.acm.org/doi/10.1145/3592106'><img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='DOI'></a>
     <a href='https://youtu.be/GdvxgsITZOw'><img src='https://img.shields.io/badge/YouTube-Video-red?style=flat&logo=YouTube&logoColor=red' alt='YouTube Video'></a>-->
@@ -115,7 +115,7 @@ All images in the dataset were taken with our self-designed multi-camera device 
 
 ## Download instructions
 
-The [HIDIVE-6D dataset](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/index.html) is hosted on Google Drive, and can be explored with any browser or downloaded with standard software, such as [wget](https://www.gnu.org/software/wget/) or [curl](https://curl.se/).
+The [Den-SOFT dataset](https://fb-baas-f32eacb9-8abb-11eb-b2b8-4857dd089e15.s3.amazonaws.com/EyefulTower/index.html) is hosted on Google Drive, and can be explored with any browser or downloaded with standard software, such as [wget](https://www.gnu.org/software/wget/) or [curl](https://curl.se/).
 
 
 ## Data Organization
@@ -161,7 +161,7 @@ The following videos show the training result of our datasets using 3DGS.
 
 
 
-https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/a56012be-126a-47d3-92eb-5fd638870610
+https://github.com/Metaverse-AI-Lab-THU/Den-SOFT/assets/122356862/a56012be-126a-47d3-92eb-5fd638870610
 
 
 [High resolution video](https://cloud.tsinghua.edu.cn/f/0ecde282f3fa4a0cb892/)
@@ -173,7 +173,7 @@ The following video shows the comparison between training results and Ground tru
 
 
 
-https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/93309ccf-47bb-49cf-8702-3a6afed190fc
+https://github.com/Metaverse-AI-Lab-THU/Den-SOFT/assets/122356862/93309ccf-47bb-49cf-8702-3a6afed190fc
 
 
 
@@ -185,12 +185,12 @@ In order to give you a more intuitive view of the sampling density when we colle
 
 
 
-https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/215dcb63-6bcf-4908-9f0d-1ac5da3e2e67
+https://github.com/Metaverse-AI-Lab-THU/Den-SOFT/assets/122356862/215dcb63-6bcf-4908-9f0d-1ac5da3e2e67
 
 
 
 
-https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/1c8f9ce9-9967-462e-8ebc-ea3392b3dc51
+https://github.com/Metaverse-AI-Lab-THU/Den-SOFT/assets/122356862/1c8f9ce9-9967-462e-8ebc-ea3392b3dc51
 
 
 
@@ -199,7 +199,7 @@ https://github.com/Metaverse-AI-Lab-THU/HIDIVE-6D/assets/122356862/1c8f9ce9-9967
 If you use any data from this dataset or any code released in this repository, please cite the HIDIVE-6D paper.
 
 ```bibtex
-@InProceedings{HIDIVE-6D,
+@InProceedings{Den-SOFT,
   author    = {Xiaohang Yu and
                Zhengxian Yang and
                Shi Pan and
@@ -212,7 +212,7 @@ If you use any data from this dataset or any code released in this repository, p
                Tao Yu },
   title     = {{HIDIVE-6D}: High-Density Image Capturing for a 6DoF Immersive Visual Experience},
   year      = {2024},
-  url       = {https://metaverse-ai-lab-thu.github.io/HIDIVE-6D/},
+  url       = {https://metaverse-ai-lab-thu.github.io/Den-SOFT/},
 }
 ```
 
