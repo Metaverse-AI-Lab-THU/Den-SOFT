@@ -180,7 +180,7 @@ https://github.com/Metaverse-AI-Lab-THU/Den-SOFT/assets/122356862/93309ccf-47bb-
 
 ### Caputure density visulization
 
-In order to give you a more intuitive view of the sampling density when we collect scene data, we have visualized the viewpoint density within 1 m&sup3; using Metashape and mayavi. The sampling density from blue to red indicates sparse to dense.
+In order to give you a more intuitive view of the sampling density when we collect scene data, we have visualized the viewpoint density within a unit sphere using Metashape and mayavi. The sampling density from blue to red indicates sparse to dense.
 
 
 
