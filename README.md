@@ -202,10 +202,10 @@ If you use any data from this dataset or any code released in this repository, p
   author    = {Xiaohang Yu and
                Zhengxian Yang and
                Shi Pan and
-               Haoxiang Wang and
-               Hongguang Xing and
                Yuqi Han and
+               Haoxiang Wang and
                Jun Zhang and
+               Shi Yan and
                Lei Yang and
                Lu Fang and
                Tao Yu },
