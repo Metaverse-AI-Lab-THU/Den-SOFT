@@ -5,10 +5,10 @@
     <a href=""><strong>Xiaohang Yu</strong></a> ·
     <a href=""><strong>Zhengxian Yang</strong></a> ·
     <a href=""><strong>Shi Pan</strong></a> ·
-    <a href=""><strong>Haoxiang Wang</strong></a> ·
-    <a href=""><strong>Hongguang Xing</strong></a><br>
     <a href=""><strong>Yuqi Han</strong></a> ·
+    <a href=""><strong>Haoxiang Wang</strong></a> ·
     <a href=""><strong>Jun Zhang</strong></a> ·
+    <a href=""><strong>Shi Yan</strong></a> ·
     <a href=""><strong>Borong Lin</strong></a> ·
     <a href=""><strong>Lei Yang</strong></a> ·
     <a href=""><strong>Lu Fang</strong></a> ·
