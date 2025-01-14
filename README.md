@@ -59,16 +59,16 @@ Total                               |                                           
 <table>
 <thead>
   <tr>
-    <th><a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217095&parId=32A0E05ACDEA165D%217088&o=OneUp">RuziNiu Statue</a></th>
-    <th><a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217089&parId=32A0E05ACDEA165D%217088&o=OneUp">LizhaoJi Building</a></th>
-    <th><a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217094&parId=32A0E05ACDEA165D%217088&o=OneUp">Architecture</a></th>
+    <th><a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q">RuziNiu Statue</a></th>
+    <th><a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q">LizhaoJi Building</a></th>
+    <th><a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q">Architecture</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td width="33%"> <a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217095&parId=32A0E05ACDEA165D%217088&o=OneUp"> <img src="static/images/media/RuziNiu Statue.jpg" alt="RuziNiu Statue" alt="RuziNiu Statue"> </a> </td>
-    <td width="33%"> <a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217089&parId=32A0E05ACDEA165D%217088&o=OneUp"> <img src="static/images/media/LizhaoJi Building.jpg" alt="LizhaoJi Building" alt="LizhaoJi Building"> </a> </td>
-    <td width="33%"> <a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217094&parId=32A0E05ACDEA165D%217088&o=OneUp"> <img src="static/images/media/Architecture.jpg" alt="Architecture" alt="Architecture"> </a> </td>
+    <td width="33%"> <a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q"> <img src="static/images/media/RuziNiu Statue.jpg" alt="RuziNiu Statue" alt="RuziNiu Statue"> </a> </td>
+    <td width="33%"> <a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q"> <img src="static/images/media/LizhaoJi Building.jpg" alt="LizhaoJi Building" alt="LizhaoJi Building"> </a> </td>
+    <td width="33%"> <a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q"> <img src="static/images/media/Architecture.jpg" alt="Architecture" alt="Architecture"> </a> </td>
   </tr>
 </tbody>
 </table>
@@ -76,16 +76,16 @@ Total                               |                                           
 <table>
 <thead>
   <tr>
-    <th><a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217097&parId=32A0E05ACDEA165D%217088&o=OneUp">Center Garden</a></th>
-    <th><a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217090&parId=32A0E05ACDEA165D%217088&o=OneUp">Square1</a></th>
-    <th><a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217093&parId=32A0E05ACDEA165D%217088&o=OneUp">Square2</a></th>
+    <th><a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q">Center Garden</a></th>
+    <th><a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q">Square1</a></th>
+    <th><a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q">Square2</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td width="33%"> <a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217097&parId=32A0E05ACDEA165D%217088&o=OneUp"> <img src="static/images/media/Center Garden.jpg" alt="Center Garden" alt="Center Garden"> </a> </td>
-    <td width="33%"> <a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217090&parId=32A0E05ACDEA165D%217088&o=OneUp"> <img src="static/images/media/Square1.jpg" alt="Square1" alt="Square1"> </a> </td>
-    <td width="33%"> <a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217093&parId=32A0E05ACDEA165D%217088&o=OneUp"> <img src="static/images/media/Square2.jpg" alt="Square2" alt="Square2"> </a> </td>
+    <td width="33%"> <a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q"> <img src="static/images/media/Center Garden.jpg" alt="Center Garden" alt="Center Garden"> </a> </td>
+    <td width="33%"> <a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q"> <img src="static/images/media/Square1.jpg" alt="Square1" alt="Square1"> </a> </td>
+    <td width="33%"> <a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q"> <img src="static/images/media/Square2.jpg" alt="Square2" alt="Square2"> </a> </td>
   </tr>
 </tbody>
 </table>
@@ -93,16 +93,16 @@ Total                               |                                           
 <table>
 <thead>
   <tr>
-    <th><a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217092&parId=32A0E05ACDEA165D%217088&o=OneUp">Flagstaff</a></th>
-    <th><a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217091&parId=32A0E05ACDEA165D%217088&o=OneUp">Office1</a></th>
-    <th><a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217096&parId=32A0E05ACDEA165D%217088&o=OneUp">Office2</a></th>
+    <th><a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q">Flagstaff</a></th>
+    <th><a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q">Office1</a></th>
+    <th><a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q">Office2</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td width="33%"> <a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217092&parId=32A0E05ACDEA165D%217088&o=OneUp"> <img src="static/images/media/Flagstaff.jpg" alt="Flagstaff" alt="Flagstaff"> </a> </td>
-    <td width="33%"> <a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217091&parId=32A0E05ACDEA165D%217088&o=OneUp"> <img src="static/images/media/Office1.jpg" alt="Office1" alt="Office1"> </a> </td>
-    <td width="33%"> <a href="https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&cid=32A0E05ACDEA165D&id=32A0E05ACDEA165D%217096&parId=32A0E05ACDEA165D%217088&o=OneUp"> <img src="static/images/media/Office2.jpg" alt="Office2" alt="Office2"> </a> </td>
+    <td width="33%"> <a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q"> <img src="static/images/media/Flagstaff.jpg" alt="Flagstaff" alt="Flagstaff"> </a> </td>
+    <td width="33%"> <a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q"> <img src="static/images/media/Office1.jpg" alt="Office1" alt="Office1"> </a> </td>
+    <td width="33%"> <a href="https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q"> <img src="static/images/media/Office2.jpg" alt="Office2" alt="Office2"> </a> </td>
   </tr>
 </tbody>
 </table>
@@ -115,7 +115,7 @@ All images in the dataset were taken with our self-designed multi-camera device 
 
 ## Download instructions
 
-The [Den-SOFT dataset](https://onedrive.live.com/?authkey=%21AHkhjVX1B8Ktzuk&id=32A0E05ACDEA165D%217088&cid=32A0E05ACDEA165D) is hosted on one Drive, and can be explored with any browser.
+The [Den-SOFT dataset](https://1drv.ms/f/c/32a0e05acdea165d/Ql0W6s1a4KAggDKwGwAAAAAAeSGNVfUHwq3O6Q) is hosted on one Drive, and can be explored with any browser.
 
 ## Data Organization
 
